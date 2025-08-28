@@ -17,7 +17,7 @@ Hey you. Welcome to this Course, i hope you enjoy it and learn a lot, please lea
 -Eva López Merino    
 -Victor Guzman   
 -Federico Carmona   
--Oscar González
--Bryan Mónico Doradea
--Ary Martinez
--Cwar
+-Oscar González    
+-Bryan Mónico Doradea    
+-Ary Martinez    
+-Cwar    
