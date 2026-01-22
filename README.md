@@ -22,3 +22,4 @@ Hey you. Welcome to this Course, i hope you enjoy it and learn a lot, please lea
 -Ary Martinez    
 -Cwar    
 -César Guerrero
+-Harold Medrano    
