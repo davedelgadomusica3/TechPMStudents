@@ -21,4 +21,5 @@ Hey you. Welcome to this Course, i hope you enjoy it and learn a lot, please lea
 -Bryan Mónico Doradea    
 -Ary Martinez    
 -Cwar    
+-César Guerrero
 -Harold Medrano    
