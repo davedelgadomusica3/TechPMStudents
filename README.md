@@ -21,7 +21,7 @@ Hey you. Welcome to this Course, i hope you enjoy it and learn a lot, please lea
 -Bryan Mónico Doradea    
 -Ary Martinez    
 -Cwar    
--Anahelen Montaño
--Juan Pablo Díaz
--César Guerrero
--Harold Medrano    
+-Anahelen Montaño        
+-Juan Pablo Díaz     
+-César Guerrero     
+-Harold Medrano        
