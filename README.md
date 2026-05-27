@@ -25,3 +25,4 @@ Hey you. Welcome to this Course, i hope you enjoy it and learn a lot, please lea
 -Juan Pablo Díaz     
 -César Guerrero     
 -Harold Medrano        
+-Jesus Jaramillo
